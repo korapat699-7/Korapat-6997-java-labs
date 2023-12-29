@@ -1,0 +1,200 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "TestKKUStudent",
+      "request": "launch",
+      "mainClass": "exercise.TestKKUStudent",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "Rectangle",
+      "request": "launch",
+      "mainClass": "exercise.Rectangle",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "MatrixOperations",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab4.MatrixOperations",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "MatrixDisplayOptions",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab4.MatrixDisplayOptions",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "MatrixDisplay",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab4.MatrixDisplay",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "GuessNumberGamesV3",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab4.GuessNumberGamesV3",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "NewList",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.exercise.NewList",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "ArrayList",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.exercise.ArrayList",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "MultiDimArrayEx",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab4.MultiDimArrayEx",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "GradesSorter",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab4.GradesSorter",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "EvenArray",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab4.EvenArray",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "guy",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab3.guy",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "name": "Java",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [
+        ".",
+        "${fileDirname}"
+      ]
+    },
+    {
+      "name": "Java Console App",
+      "type": "java",
+      "request": "launch",
+      "stopOnEntry": true,
+      "jdkPath": "${env:JAVA_HOME}/bin",
+      "cwd": "${fileDirname}",
+      "startupClass": "${fileBasenameNoExtension}",
+      "classpath": [
+        ".",
+        "${fileDirname}"
+      ],
+      "externalConsole": true
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "CamelCaseNaming",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab2.CamelCaseNaming",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "Patient",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab2.Patient",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "PrimitiveDataType",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab2.PrimitiveDataType",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "SimpleCalculator",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab2.SimpleCalculator",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "ConfigurableNumberGuessingGame",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab3.ConfigurableNumberGuessingGame",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "NumberGuessingGame",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab3.NumberGuessingGame",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "NumberGuessingGames",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab3.NumberGuessingGames",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "NumberGuessingMethodGame",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab3.NumberGuessingMethodGame",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "GuessNumberGamesV2",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab4.GuessNumberGamesV2",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/guyrapat/Desktop/Korapat-6997-java-labs/lab1/new",
+      "program": "/Users/guyrapat/Desktop/Korapat-6997-java-labs/lab1/new/build/Debug/outDebug"
+    }
+  ]
+}

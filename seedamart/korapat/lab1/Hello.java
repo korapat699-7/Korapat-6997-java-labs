@@ -1,3 +1,5 @@
+package seedamart.korapat.lab1;
+
 public class Hello {
     public static void main(String[] args) {
         boolean bool = true;

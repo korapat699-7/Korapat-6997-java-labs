@@ -113,7 +113,7 @@ public class NumberGuessingGames {
     public static void playGame() { 
         // Method to play the number guessing game
         Scanner check = new Scanner(System.in);
-
+        
         while (true) {
             System.out.println("Welcome to a number guessing game!");
             int numTries = 0;
