@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestGame",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.exercise.lab6.TestGame",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "TestStudents",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.exercise.oop3.TestStudents",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "TestEnKKUStudent22",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.exercise.TestEnKKUStudent22",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "TestGuessNumberGame",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab5.TestGuessNumberGame",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "GuessNumberGameVer1",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab5.GuessNumberGameVer1",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
       "name": "TestKKUStudent",
       "request": "launch",
       "mainClass": "exercise.TestKKUStudent",
