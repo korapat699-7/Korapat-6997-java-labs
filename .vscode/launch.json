@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestGamesProb2",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab7.TestGamesProb2",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "PlayerFormV3",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab8.PlayerFormV3",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "PlayerFormV2",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab7.PlayerFormV2",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "PlayerFormV1",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab7.PlayerFormV1",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "MySimpleWindow",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab7.MySimpleWindow",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "primenujmber",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab6.primenujmber",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
       "name": "TestGamesProb1",
       "request": "launch",
       "mainClass": "seedamart.korapat.lab7.TestGamesProb1",
