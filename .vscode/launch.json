@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MultiSelectionJListExample",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab10.MultiSelectionJListExample",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "JListExample",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab10.JListExample",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "PlayerFormV8",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab10.PlayerFormV8",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "PlayerFormV7",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab9.PlayerFormV7",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "PlayerFormV6",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab9.PlayerFormV6",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
       "name": "DiceGameWindow",
       "request": "launch",
       "mainClass": "seedamart.korapat.lab9.DiceGameWindow",

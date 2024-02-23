@@ -37,7 +37,6 @@ public class PlayerFormV4 extends PlayerFormV3 {
     protected JLabel hobbiesLabel, sportLabel, yearLabel;
     protected JPanel hobbiesPanel, propPanel, checkboxPanel, sportlistPanel, yearPanel, boxPanel;
     protected JCheckBox readCheckBox, browsCheckBox, sleepingCheckBox, travelingCheckBox;
-    protected ButtonGroup hobbiesButtonGroup;
     protected JList<String> sportList;
     protected JSlider sportSlider;
     protected JPanel allPanel;
@@ -61,7 +60,6 @@ public class PlayerFormV4 extends PlayerFormV3 {
         browsCheckBox = new JCheckBox("Browsing");
         sleepingCheckBox = new JCheckBox("Sleeping");
         travelingCheckBox = new JCheckBox("Traveling");
-        hobbiesButtonGroup = new ButtonGroup();
         sleepingCheckBox.setSelected(true);
         propPanel = new JPanel(new GridLayout(4, 2));
 
@@ -83,11 +81,6 @@ public class PlayerFormV4 extends PlayerFormV3 {
 
         yearPanel.add(yearLabel);
         yearPanel.add(sportSlider);
-
-        hobbiesButtonGroup.add(readCheckBox);
-        hobbiesButtonGroup.add(browsCheckBox);
-        hobbiesButtonGroup.add(sleepingCheckBox);
-        hobbiesButtonGroup.add(travelingCheckBox);
 
         checkboxPanel.add(readCheckBox);
         checkboxPanel.add(browsCheckBox);
