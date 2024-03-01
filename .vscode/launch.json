@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PlayerFormV12",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab11.PlayerFormV12",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "PlayerFormV11",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab10.PlayerFormV11",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "PlayerFormV10",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab10.PlayerFormV10",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "SliderExample",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab10.SliderExample",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "PlayerFormV9",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab10.PlayerFormV9",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
       "name": "MultiSelectionJListExample",
       "request": "launch",
       "mainClass": "seedamart.korapat.lab10.MultiSelectionJListExample",

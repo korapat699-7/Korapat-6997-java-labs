@@ -20,9 +20,18 @@ import javax.swing.*;
 import seedamart.korapat.lab7.PlayerFormV2;
 
 public class PlayerFormV3 extends PlayerFormV2 {
-    JMenuBar menuBar;
-    JMenu fileMenu, configMenu, colorMenu, sizMenu;
-    JMenuItem redMenu, greenMenu, blueMenu, newMenu, openMenu, saveMenu, size16, size20, size24, exitMenu;
+    protected JMenuBar menuBar;
+    protected JMenu fileMenu, configMenu, colorMenu, sizMenu;
+    protected JMenuItem redMenu;
+    protected JMenuItem greenMenu;
+    protected JMenuItem blueMenu;
+    protected JMenuItem newMenu;
+    protected JMenuItem openMenu;
+    protected JMenuItem saveMenu;
+    protected JMenuItem size16;
+    protected JMenuItem size20;
+    protected JMenuItem size24;
+    protected JMenuItem exitMenu;
 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
