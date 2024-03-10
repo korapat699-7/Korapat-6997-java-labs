@@ -2,8 +2,6 @@ package seedamart.korapat.lab11;
 import javax.swing.*;
 
 import seedamart.korapat.lab10.PlayerFormV11;
-import java.awt.*;
-import java.awt.event.*;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 
@@ -81,6 +79,8 @@ public class PlayerFormV12 extends PlayerFormV11 {
             JOptionPane.showMessageDialog(this, "Please enter some data in " + currentTextField.getName(), "Empty Field", JOptionPane.ERROR_MESSAGE);
             currentTextField.requestFocusInWindow();
             nextTextField.setEnabled(false);
+            nextTextField.setEnabled(false);
+            
         } else {
             super.handleTextField(currentTextField);
             nextTextField.setEnabled(true);
@@ -97,6 +97,8 @@ public class PlayerFormV12 extends PlayerFormV11 {
             JOptionPane.showMessageDialog(this, "Please enter valid date in " + dateField.getName(), "Invalid Field", JOptionPane.ERROR_MESSAGE);
         }
     }
+
+    
 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> createAndShowGUI());

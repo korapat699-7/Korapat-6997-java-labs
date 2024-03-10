@@ -121,7 +121,7 @@ public class PlayerFormV11 extends PlayerFormV10 {
     }
 
     // Handling "Open" menu item action
-    private void handleOpenMenu() {
+    public void handleOpenMenu() {
         // Display open file dialog
         JFileChooser fileChooser = new JFileChooser();
         int result = fileChooser.showOpenDialog(this);
@@ -133,7 +133,7 @@ public class PlayerFormV11 extends PlayerFormV10 {
     }
 
     // Handling "Save" menu item action
-    private void handleSaveMenu() {
+    public void handleSaveMenu() {
         // Display save file dialog
         JFileChooser fileChooser = new JFileChooser();
         int result = fileChooser.showSaveDialog(this);

@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PlayerFormV14",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab11.PlayerFormV14",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "LoginFileGUI",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab11.LoginFileGUI",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "DataGUI",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab11.DataGUI",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "DataEntryGUI",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab11.DataEntryGUI",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "LoginGUI",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab11.LoginGUI",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "FileWriter",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab11.FileWriter",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
+      "name": "PlayerFormV13",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab11.PlayerFormV13",
+      "projectName": "Korapat-6997-java-labs_8fbc1da5"
+    },
+    {
+      "type": "java",
       "name": "PlayerFormV12",
       "request": "launch",
       "mainClass": "seedamart.korapat.lab11.PlayerFormV12",
