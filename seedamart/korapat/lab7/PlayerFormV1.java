@@ -23,7 +23,9 @@ class PlayerFormV1 extends MySimpleWindow {
     // Declaring instance variables for labels, panels, text fields, and radio buttons
     protected JLabel nameLabel, dateBirthLabel, nationalityLabel, genderLabel;
     protected JPanel radioPanel, genderPanel, rightPanel, leftPanel, combinePanel;
-    protected JTextField nameTextField, nationalityTextField, dateBirthTextField;
+    protected static JTextField nameTextField;
+    protected JTextField nationalityTextField;
+    protected JTextField dateBirthTextField;
     protected JRadioButton maleRadioButton, femaleRadioButton;
     protected ButtonGroup genderButtonGroup;
 

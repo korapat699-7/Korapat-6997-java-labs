@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PlayerFormV2",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab7.PlayerFormV2",
+      "projectName": "Korapat-6997-java-labs_a12a06f8"
+    },
+    {
+      "type": "java",
+      "name": "PlayerFormV13",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab11.PlayerFormV13",
+      "projectName": "Korapat-6997-java-labs_a12a06f8"
+    },
+    {
+      "type": "java",
+      "name": "PasswordManagerGUI",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab11.PasswordManagerGUI",
+      "projectName": "Korapat-6997-java-labs_a12a06f8"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab11.Main",
+      "projectName": "Korapat-6997-java-labs_a12a06f8"
+    },
+    {
+      "type": "java",
+      "name": "PlayerFormV14",
+      "request": "launch",
+      "mainClass": "seedamart.korapat.lab11.PlayerFormV14",
+      "projectName": "Korapat-6997-java-labs_a12a06f8"
+    },
+    {
+      "type": "java",
       "name": "PlayerFormV14",
       "request": "launch",
       "mainClass": "seedamart.korapat.lab11.PlayerFormV14",

@@ -29,7 +29,7 @@ import seedamart.korapat.lab8.PlayerFormV5;
 
 public class PlayerFormV6 extends PlayerFormV5 implements ActionListener {
     // Member variables declaration
-    protected String name, nationality, date, gender, playertype, hobbies, sports;
+    public String name, nationality, date, gender, playertype, hobbies, sports;
 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
